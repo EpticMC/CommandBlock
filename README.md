@@ -7,7 +7,12 @@
 <p align="center"> Collection of <a href="https://epticmc.com">EpticMC</a>'s CommandBlock commands, tools and scripts </p>
 
 Everything from small commands like EntityData manipulations to bigger routine driven programs. <br>
-Also check out [Commander IDE](https://github.com/EpticMC/Commander-IDE), a fully featured IDE/Editor for CommandBlock scripts!
+Also check out [Commander IDE](https://github.com/EpticMC/Commander-IDE) by EpticMC, a fully featured IDE/Editor for CommandBlock scripts!
+
+Check out this awesome tool for positioning armorstands as well: <br>
+http://haselkern.com/Minecraft-ArmorStand/
+
+**Note:** All commands have _only_ been tested on version **1.8**
 
 ### Contributing
 
