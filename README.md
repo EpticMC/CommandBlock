@@ -9,7 +9,7 @@ Everything from small commands like EntityData manipulations to bigger routine d
   - [ArmorStands]()
     - [Sitting Armorstand]()
     - [Guard]()
-  - [NPC]()
+  - [NPC](#npc)
     - [Invulnerable Baby Chicken]()
 - [...]()
 
