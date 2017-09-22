@@ -5,9 +5,11 @@ Everything from small commands like EntityData manipulations to bigger routine d
 
 #### Contributing
 
-If you'd like to add a a useful command or information to the list, please fork this repository and submit a [pull request](https://github.com/EpticMC/CommandBlock/pulls). :blush:
+If you'd like to add a a useful command or information to the list, please [create an issue](https://github.com/EpticMC/CommandBlock/issues) or fork this repository and submit a [pull request](https://github.com/EpticMC/CommandBlock/pulls). :blush:
 
-**Help:** [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+**If you choose to make a Pull Request:** <br>
+Please make yourself comfortable with Markdown Syntax first: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <br>
+Also please try to stick to our style / layout so this markdown file stays consistent :smile: 
 
 
 ## Table of Contents:
