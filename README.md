@@ -27,6 +27,7 @@ Also please try to stick to our style / layout so this markdown file stays consi
     - [Guard]()
   - [NPC](#npc)
     - [Invulnerable Baby Chicken](#invchicken)
+    - [Giant Sword](#giantsword)
   - [Other Entities](other-entities)
     - [Invulnerable Ender Crystal](#crystal)
     - [De-Spawn Near Crystal](#despawncrystal)
@@ -61,6 +62,16 @@ Spawn AI Less Baby Chicken as invulnerable Entity <br><br>
 CommandBlock Command: <br>
 ```Assembly
 /summon Chicken ~1 ~.2 ~0 {Rotation:[55f],Invulnerable:1,NoAI:1,Silent:1,IsBaby:1,Age:-1000000000}
+```
+
+<hr>
+
+- <a name="giantsword"></a>Giant Sword: <br><br>
+Description: <br>
+Spawn AI Less, Invisible Giant holding a sword. Looks like a huge floating sword. <br><br>
+CommandBlock Command: <br>
+```Assembly
+/summon Giant ~ ~ ~ {Equipment:[{id:diamond_sword},{},{},{},{}],Attributes:[{Name:generic.followRange,Base:0},{Name:generic.knockbackResistance,Base:1}],ActiveEffects:[{Id:14,Amplifier:1,Duration:999999,Ambient:1}],NoAI:1,Silent:1}
 ```
 
 <hr>
