@@ -22,6 +22,7 @@ Also please try to stick to our style / layout so this markdown file stays consi
 
 - [EntityData Manipulation](#entitydata-manipulation)
   - [ArmorStands](#armorstands)
+    - [Laying Item](#layingitem)
     - [Sitting Armorstand]()
     - [Guard]()
   - [NPC](#npc)
@@ -38,6 +39,16 @@ Also please try to stick to our style / layout so this markdown file stays consi
 ### ArmorStands
 
 \- Please give us some time to write the code -
+
+<hr>
+
+- <a name="layingitem"></a>Laying Item: <br><br>
+Description: <br>
+Spawn an invisible armorstand holding an item. Makes it look like its laying on the floor. <br><br>
+CommandBlock Command: <br>
+```Assembly
+summon ArmorStand ~.5 ~-.8 ~-1 {DisabledSlots:1,NoGravity:true,Invisible:1,Invulnerable:0,Small:false,Equipment:[{id:0050,Count:1},{},{},{},{}],Pose:{RightArm:[0.0f,30.0f,0.0f]},Rotation:[30.10f,]}
+```
 
 <hr>
 
