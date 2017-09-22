@@ -30,6 +30,7 @@ Also please try to stick to our style / layout so this markdown file stays consi
   - [Other Entities](other-entities)
     - [Invulnerable Ender Crystal](#crystal)
     - [De-Spawn Near Crystal](#despawncrystal)
+    - [Chest with item](#chestitem)
 - [...]()
 
 -------
@@ -44,7 +45,7 @@ Also please try to stick to our style / layout so this markdown file stays consi
 
 - <a name="layingitem"></a>Laying Item: <br><br>
 Description: <br>
-Spawn an invisible armorstand holding an item. Makes it look like its laying on the floor. <br><br>
+Spawn an invisible armorstand holding an item (torch in this case). Makes it look like its laying on the floor. <br><br>
 CommandBlock Command: <br>
 ```Assembly
 summon ArmorStand ~.5 ~-.8 ~-1 {DisabledSlots:1,NoGravity:true,Invisible:1,Invulnerable:0,Small:false,Equipment:[{id:0050,Count:1},{},{},{},{}],Pose:{RightArm:[0.0f,30.0f,0.0f]},Rotation:[30.10f,]}
@@ -82,6 +83,16 @@ Removes all Ender Crystals made invulnerable by the above command in a range of 
 CommandBlock Command: <br>
 ```Assembly
 /killall endercrystal 1
+```
+
+<hr>
+
+- <a name="chestitem"></a>Chest with item: <br><br>
+Description: <br>
+Spawns a chest with an item (sword in this case) in it<br><br>
+CommandBlock Command: <br>
+```Assembly
+/summon FallingSand ~ ~1 ~ {TileID:54,Time:1,TileEntityData:{Items:[{id:276,tag:{display:{Name:"Black Sword"}}}]}}
 ```
 
 <hr>
