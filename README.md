@@ -1,9 +1,15 @@
 # CommandBlock
-Collection of EpticMC's CommandBlock "programs" 
 
-Everything from small commands like EntityData manipulations to bigger routine driven programs. 
+<p align="center">
+<img height="300" width="auto" src="https://epticmc.com/images/cmd.png" />
+</p>
 
-#### Contributing
+<p align="center"> Collection of <a href="https://epticmc.com">EpticMC</a>'s CommandBlock commands, tools and scripts </p>
+
+Everything from small commands like EntityData manipulations to bigger routine driven programs. <br>
+Also check out [Commander IDE](https://github.com/EpticMC/Commander-IDE), a fully featured IDE/Editor for CommandBlock scripts!
+
+### Contributing
 
 If you'd like to add a a useful command or information to the list, please [create an issue](https://github.com/EpticMC/CommandBlock/issues) or fork this repository and submit a [pull request](https://github.com/EpticMC/CommandBlock/pulls). :blush:
 
