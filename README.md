@@ -6,11 +6,11 @@ Everything from small commands like EntityData manipulations to bigger routine d
 ## Table of Contents:
 
 - [EntityData Manipulation]()
-  - [ArmorStands]()
+  - [ArmorStands](#armorstands)
     - [Sitting Armorstand]()
     - [Guard]()
   - [NPC](#npc)
-    - [Invulnerable Baby Chicken]()
+    - [Invulnerable Baby Chicken](#invchicken)
 - [...]()
 
 -------
@@ -29,7 +29,7 @@ Everything from small commands like EntityData manipulations to bigger routine d
 
 <hr>
 
-- Invulnerable Baby Chicken: <br><br>
+- <a name="invchicken"></a>Invulnerable Baby Chicken: <br><br>
 Description: <br>
 Spawn AI Less Baby Chicken as invulnerable Entity <br><br>
 CommandBlock Command: <br>
