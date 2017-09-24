@@ -37,7 +37,7 @@ Also please try to stick to our style / layout so this markdown file stays consi
     - [Invulnerable Ender Crystal](#crystal)
     - [De-Spawn Near Crystal](#despawncrystal)
     - [Chest with item](#chestitem)
-- [Contributors](#contributors)
+- [Contributors](#contributors-heart)
 - [...]()
 
 -------
@@ -116,5 +116,5 @@ CommandBlock Command: <br>
 
 ## Contributors :heart:
 
-- @NLDev
-- @Fr3shlama
+- [**@NLDev**](https://github.com/NLDev)
+- [**@Fr3shlama**](https://github.com/Fr3shlama)
