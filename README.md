@@ -1,7 +1,7 @@
 # CommandBlock
 
 <p align="center">
-<img height="300" width="auto" src="https://epticmc.com/images/cmd.png" />
+<img height="300" width="auto" src="https://pre00.deviantart.net/7a6f/th/pre/f/2016/209/0/1/commandblock_animationtest10038_by_iggykoopa321-dabr12y.png" />
 </p>
 
 <p align="center"> Collection of <a href="https://epticmc.com">EpticMC</a>'s CommandBlock commands, tools and scripts </p>
