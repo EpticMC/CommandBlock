@@ -84,52 +84,56 @@ CommandBlock Command: <br>
 
 ### Guards for HubServer:
 
-**North-West** 
+Block Placement:
 
-Sword:
-```Assembly
-/summon ArmorStand ~-.66 ~.7 ~.55 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[320f],Pose:{RightArm:[170f,89f,90f]}}
-```
+<img src="https://raw.githubusercontent.com/EpticMC/CommandBlock/master/2019-08-09_04.22.11.png" widh="100%" height="auto">
+
+**North-West** 
 
 Guard:
 ```Assembly
 /summon ArmorStand ~0 ~.85 ~-1 {Invulnerable:1b,PersistenceRequired:1b,NoBasePlate:1b,NoGravity:1b,ShowArms:1b,Rotation:[312f],Pose:{Head:[14f,0f,0f],LeftLeg:[12f,0f,357f],RightLeg:[355f,0f,3f],LeftArm:[284f,32f,0f],RightArm:[286f,327f,0f]}}
 ```
 
-**North-East** 
-
 Sword:
 ```Assembly
-/summon ArmorStand ~-.45 ~.7 ~-.9 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[45f],Pose:{RightArm:[170f,89f,90f]}}
+/summon ArmorStand ~-.66 ~.7 ~.55 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[320f],Pose:{RightArm:[170f,89f,90f]}}
 ```
+
+**North-East** 
 
 Guard:
 ```Assembly
 /summon ArmorStand ~1.14 ~.85 ~-.14 {Invulnerable:1b,PersistenceRequired:1b,NoBasePlate:1b,NoGravity:1b,ShowArms:1b,Rotation:[45f],Pose:{Head:[14f,0f,0f],LeftLeg:[12f,0f,357f],RightLeg:[355f,0f,3f],LeftArm:[284f,32f,0f],RightArm:[286f,327f,0f]}}
 ```
 
-**South-East** 
-
 Sword:
 ```Assembly
-/summon ArmorStand ~.8 ~.7 ~-.5 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[145f],Pose:{RightArm:[170f,89f,90f]}}
+/summon ArmorStand ~-.45 ~.7 ~-.9 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[45f],Pose:{RightArm:[170f,89f,90f]}}
 ```
+
+**South-East** 
 
 Guard:
 ```Assembly
 /summon ArmorStand ~.02 ~.85 ~1.1 {Invulnerable:1b,PersistenceRequired:1b,NoBasePlate:1b,NoGravity:1b,ShowArms:1b,Rotation:[145f],Pose:{Head:[14f,0f,0f],LeftLeg:[12f,0f,357f],RightLeg:[355f,0f,3f],LeftArm:[284f,32f,0f],RightArm:[286f,327f,0f]}}
 ```
 
-**South-West** 
-
 Sword:
 ```Assembly
-/summon ArmorStand ~.5 ~.7 ~.8 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[225f],Pose:{RightArm:[170f,89f,90f]}}
+/summon ArmorStand ~.8 ~.7 ~-.5 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[145f],Pose:{RightArm:[170f,89f,90f]}}
 ```
+
+**South-West** 
 
 Guard:
 ```Assembly
 /summon ArmorStand ~-1.05 ~.95 ~.11 {Invulnerable:1b,PersistenceRequired:1b,NoBasePlate:1b,NoGravity:1b,ShowArms:1b,Rotation:[225f],Pose:{Head:[14f,0f,0f],LeftLeg:[12f,0f,357f],RightLeg:[355f,0f,3f],LeftArm:[284f,32f,0f],RightArm:[286f,327f,0f]}}
+```
+
+Sword:
+```Assembly
+/summon ArmorStand ~.5 ~.7 ~.8 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[225f],Pose:{RightArm:[170f,89f,90f]}}
 ```
 
 <hr>
