@@ -28,8 +28,8 @@ Also please try to stick to our style / layout so this markdown file stays consi
 - [EntityData Manipulation](#entitydata-manipulation)
   - [ArmorStands](#armorstands)
     - [Laying Item](#layingitem)
-    - [Sitting Armorstand]()
-    - [Guard]()
+    - [Guard](#guards-for-hubserver)
+    - [Dead Guy](#dead-guy)
   - [NPC](#npc)
     - [Invulnerable Baby Chicken](#invchicken)
     - [Giant Sword](#giantsword)
@@ -134,6 +134,15 @@ Guard:
 Sword:
 ```Assembly
 /summon ArmorStand ~.5 ~.7 ~.8 {NoGravity:1b,ShowArms:1b,Invisible:1b,Rotation:[225f],Pose:{RightArm:[170f,89f,90f]}}
+```
+
+<hr>
+
+### Dead Guy
+
+Block directly above:
+```Assembly
+/summon ArmorStand ~ ~-2.8 ~ {CustomNameVisible:1,CustomName:"R.I.P.",Invulnerable:1b,PersistenceRequired:1b,NoBasePlate:1b,NoGravity:1b,ShowArms:1b,Rotation:[32f],Pose:{Body:[89f,0f,0f],Head:[89f,12f,92f],LeftArm:[270f,315f,0f],RightArm:[89f,315f,0f]}}
 ```
 
 <hr>
